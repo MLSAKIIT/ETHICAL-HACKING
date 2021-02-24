@@ -22,3 +22,13 @@ The list is NOT only about machines similar to OSCP but is focused on preparing 
 - [A curated list of awesome OSCP resources](https://github.com/0x4D31/awesome-oscp)
 - [A reconnaissance tool made for the OSCP labs](https://github.com/codingo/Reconnoitre)
 - [HackTheBox OSCP-like Machines](https://pbs.twimg.com/media/Dxy-J6AW0AIIqbu.jpg)
+
+---
+# Vulnhub Linux Machines
+
+Name | Difficulty | Completed | OSCP Prep | Note | Writeup
+--- | --- | --- | --- |--- |--- 
+RICKdiculouslyEasy 1	| Easy |	NO |	YES |	Really CTFish, Flags, Enumeration, Web, RCE, Bruteforce, Stego, Fun to solve |
+pWnOS: 2.0 (Pre-Release)	| Easy | NO |	YES |	Realistic, Web, Enumeration, Easy SQLi |
+SickOs: 1.1	| Easy |	NO	|	Pretty easy compared to other machines that mention the same thing. | CTFish, Enumeration, Web, Not really original except the proxy thing (no spoilers). |
+Dina: 1.0.1	| Easy	| NO	| YES |	Web, Not really original |
