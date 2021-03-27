@@ -21,3 +21,10 @@ Name  |  Description
 [Rafay Hacking Articles, a great blog](http://www.rafayhackingarticles.net/) | Write up collections by Rafay Baloch.
 [PentesterLab](https://pentesterlab.com/) | 20$ signature, complete content basic to write exploits, web, android.
 [CyberSec WTF](https://cybersecurity.wtf/)| Emulated web pentesting challenges from bounty write-ups
+
+
+### Off-Line
+Name  |  Description
+----  |  ----
+[Damn Vulnerable Xebia Training Environment](https://github.com/davevs/dvxte) | Docker Container including several vurnerable web applications (DVWA,DVWServices, DVWSockets, WebGoat, Juiceshop, Railsgoat, django.NV, Buggy Bank, Mutilidae II and more)
+[OWASP Vulnerable Web Applications Directory Project (Offline)](https://www.owasp.org/index.php/OWASP_Vulnerable_Web_Applications_Directory_Project#tab=Off-Line_apps) | List of offline available vulnerable applications for learning purposes
